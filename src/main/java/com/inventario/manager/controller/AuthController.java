@@ -1,5 +1,5 @@
 package com.inventario.manager.controller;
-
+//Autenticador
 import com.inventario.manager.dto.AuthRequestDTO;
 import com.inventario.manager.dto.AuthResponseDTO;
 import com.inventario.manager.security.JwtUtils;
